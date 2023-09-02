@@ -1,0 +1,12 @@
+F:\Programming\C#\AstolfoIsComingForYou\AstolfoIsComingForYou\bin\Debug\AstolfoIsComingForYou.exe.config
+F:\Programming\C#\AstolfoIsComingForYou\AstolfoIsComingForYou\bin\Debug\AstolfoIsComingForYou.exe
+F:\Programming\C#\AstolfoIsComingForYou\AstolfoIsComingForYou\bin\Debug\AstolfoIsComingForYou.pdb
+F:\Programming\C#\AstolfoIsComingForYou\AstolfoIsComingForYou\obj\Debug\AstolfoIsComingForYou.csproj.AssemblyReference.cache
+F:\Programming\C#\AstolfoIsComingForYou\AstolfoIsComingForYou\obj\Debug\AstolfoIsComingForYou.csproj.SuggestedBindingRedirects.cache
+F:\Programming\C#\AstolfoIsComingForYou\AstolfoIsComingForYou\obj\Debug\AstolfoIsComingForYou.Properties.Resources.resources
+F:\Programming\C#\AstolfoIsComingForYou\AstolfoIsComingForYou\obj\Debug\AstolfoIsComingForYou.csproj.GenerateResource.cache
+F:\Programming\C#\AstolfoIsComingForYou\AstolfoIsComingForYou\obj\Debug\AstolfoIsComingForYou.csproj.CoreCompileInputs.cache
+F:\Programming\C#\AstolfoIsComingForYou\AstolfoIsComingForYou\obj\Debug\AstolfoIsComingForYou.exe
+F:\Programming\C#\AstolfoIsComingForYou\AstolfoIsComingForYou\obj\Debug\AstolfoIsComingForYou.pdb
+F:\Programming\C#\AstolfoIsComingForYou\AstolfoIsComingForYou\obj\Debug\AstolfoIsComingForYou.Form1.resources
+F:\Programming\C#\AstolfoIsComingForYou\AstolfoIsComingForYou\obj\Debug\AstolfoIsComingForYou.Form2.resources
